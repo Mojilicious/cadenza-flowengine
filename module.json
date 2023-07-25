@@ -11,5 +11,7 @@
   "compatibility": {
     "minimum": "11",
     "verified": "12"
-  }
+  },
+  "url": "https://github.com/RikaRawrs/cadenza-flowengine/",
+  "manifest": "https://raw.githubusercontent.com/RikaRawrs/cadenza-flowengine/main/module.json"
 }
