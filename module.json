@@ -1,0 +1,15 @@
+{
+  "id": "cadenza-flowengine",
+  "title": "Cadenza Flow Engine - required for Cadenza subsystem",
+  "description": "Required for Cadenza subsystem. Based on Chained Echoes.",
+  "authors": [
+    {
+      "name": "RikaRawrs"
+    }
+  ],
+  "version": "0.0.0-alpha",
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  }
+}
